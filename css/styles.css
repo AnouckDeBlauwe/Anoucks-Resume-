@@ -14,17 +14,24 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #959D90;
+	font-family: "Roboto Mono", monospace;
+	font-size: 60px;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: #959D90;
 	color: #E8D9CD
+		
 }
 
 .resume-main {
+	font-family: "Roboto Mono", monospace;
 	background-color: #BBA58F;
 	color: #523D35
 		
 }
 
 .resume-aside {
+	font-family: "Roboto Mono", monospace;
 	background-color: #E8D9CD;
 	color: #959D90
 }
